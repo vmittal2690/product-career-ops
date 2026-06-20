@@ -1,0 +1,26 @@
+{
+  "opportunity": {
+    "company": "SignalCare AI",
+    "role": "Vice President of Product, Clinical AI",
+    "url": "demo/jobs/signalcare-ai.md",
+    "source": "Fictional public demo",
+    "location": "Boston or remote",
+    "work_model": "Flexible hybrid"
+  },
+  "archetype": "Clinical AI Product Executive",
+  "posting_status": "Fictional demo",
+  "next_action": "Prioritize and confirm the current product organization, Board expectations, and regulatory strategy",
+  "recommendation": "Prioritize immediately",
+  "scores": {
+    "mandate_authority": {"points": 20, "rationale": "Owns company strategy, portfolio, organization, and Board partnership.", "evidence": "Fictional posting"},
+    "target_alignment": {"points": 15, "rationale": "Direct VP Product target role.", "evidence": "Demo career thesis"},
+    "domain_fit": {"points": 14, "rationale": "Strong healthcare, AI, enterprise, and high-trust workflow match.", "evidence": "Hearthline Health and Atlas Cloud"},
+    "leadership_scope": {"points": 15, "rationale": "Leads product, design, research, and operations.", "evidence": "Demo resume"},
+    "evidence_match": {"points": 9, "rationale": "Strong organization, health-plan, AI-platform, and adoption evidence.", "evidence": "Demo evidence bank"},
+    "career_growth": {"points": 10, "rationale": "Expands to full executive product ownership.", "evidence": "Role mandate"},
+    "product_quality": {"points": 5, "rationale": "Clinically meaningful, high-trust product area.", "evidence": "Fictional posting"},
+    "commercial_upside": {"points": 5, "rationale": "Owns enterprise launch, expansion, and market positioning.", "evidence": "Fictional posting"},
+    "practical_fit": {"points": 4, "rationale": "Remote option fits; travel needs confirmation.", "evidence": "Demo profile"}
+  }
+}
+

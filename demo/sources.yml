@@ -1,0 +1,17 @@
+filters:
+  positive_titles:
+    - Vice President Product
+    - Head of Product
+    - Senior Director Product
+    - Director of Product
+    - AI Product
+    - Digital Health Product
+    - Platform Product
+  negative_titles:
+    - Associate
+    - Junior
+    - Intern
+    - Project Manager
+
+sources: []
+

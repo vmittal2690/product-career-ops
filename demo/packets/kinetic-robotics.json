@@ -1,0 +1,14 @@
+{
+  "recommendation": "Explore selectively. The platform, developer-product, AI, and organizational leadership fit is strong, but direct robotics, autonomy, and hardware experience is absent.",
+  "role_brief": "The role owns a robotics software platform spanning fleet management, autonomy services, developer tools, analytics, and integrations.",
+  "company_brief": "Kinetic Robotics is fictional demonstration data representing an enterprise robotics platform company.",
+  "evidence_match": "Lead with Atlas Cloud platform consolidation, developer adoption, enterprise implementation, partner APIs, and leadership of a 120-person organization.",
+  "gaps_risks": "No direct robotics, autonomy, industrial deployment, or hardware product evidence appears in the fictional resume.",
+  "diligence_questions": "How much direct robotics expertise is required? Is the product boundary primarily cloud software or integrated hardware? What portion of the mandate is ecosystem versus field deployment?",
+  "interview_packet": "Prepare platform strategy, developer adoption, enterprise implementation, ecosystem, reliability, and technical tradeoff stories.",
+  "outreach": "My background is in enterprise AI and developer platforms rather than robotics, but the platform, ecosystem, and scaled-deployment mandate is highly transferable.",
+  "cover_letter": "The fictional candidate offers deep platform and developer-product leadership while clearly acknowledging the gap in direct robotics experience.",
+  "resume": "Prioritize Atlas Cloud, Northwind integrations, platform consolidation, developer growth, and enterprise implementation.",
+  "evidence_check": "Fictional demo data only"
+}
+

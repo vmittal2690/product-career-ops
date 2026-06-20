@@ -1,0 +1,26 @@
+{
+  "opportunity": {
+    "company": "Northstar Health",
+    "role": "Head of Product, Member Experience",
+    "url": "demo/jobs/northstar-health.md",
+    "source": "Fictional public demo",
+    "location": "Remote, United States",
+    "work_model": "Remote"
+  },
+  "archetype": "Digital Health Product Executive",
+  "posting_status": "Fictional demo",
+  "next_action": "Test the breadth of company-level authority and clinical-outcomes ownership",
+  "recommendation": "Prioritize",
+  "scores": {
+    "mandate_authority": {"points": 18, "rationale": "Owns strategy and roadmap with company-level portfolio influence.", "evidence": "Fictional posting"},
+    "target_alignment": {"points": 15, "rationale": "Direct Head of Product target role.", "evidence": "Demo career thesis"},
+    "domain_fit": {"points": 15, "rationale": "Direct match to digital health, member engagement, and enterprise channels.", "evidence": "Hearthline Health"},
+    "leadership_scope": {"points": 14, "rationale": "Manages PMs and leads broad clinical and commercial partners.", "evidence": "Atlas Cloud and Hearthline Health"},
+    "evidence_match": {"points": 10, "rationale": "Strong evidence for membership growth, activation, health plans, and team building.", "evidence": "Demo evidence bank"},
+    "career_growth": {"points": 9, "rationale": "Expands company-level product authority.", "evidence": "Role mandate"},
+    "product_quality": {"points": 4, "rationale": "Meaningful high-trust member problem.", "evidence": "Fictional posting"},
+    "commercial_upside": {"points": 4, "rationale": "Connects outcomes, retention, and enterprise growth.", "evidence": "Fictional posting"},
+    "practical_fit": {"points": 5, "rationale": "Remote and within stated constraints.", "evidence": "Demo profile"}
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "opportunity": {
+    "company": "Example Digital Health",
+    "role": "Vice President, Product",
+    "url": "https://example.com/jobs/vp-product",
+    "source": "Acceptance fixture",
+    "location": "Seattle, WA",
+    "work_model": "Hybrid"
+  },
+  "archetype": "Digital Health Product Executive",
+  "posting_status": "Fixture",
+  "next_action": "Confirm executive mandate and reporting line",
+  "scores": {
+    "mandate_authority": {"points": 18, "rationale": "Portfolio and team ownership", "evidence": "Atlas Cloud and Hearthline Health leadership"},
+    "target_alignment": {"points": 14, "rationale": "Direct target role", "evidence": "Career thesis"},
+    "domain_fit": {"points": 15, "rationale": "Regulated digital-health platform", "evidence": "Digital health and AI platform experience"},
+    "leadership_scope": {"points": 13, "rationale": "Executive cross-functional scope", "evidence": "120-person product and engineering organization"},
+    "evidence_match": {"points": 9, "rationale": "Multiple relevant launches", "evidence": "Atlas Cloud, Hearthline Health, Meridian Marketplace"},
+    "career_growth": {"points": 9, "rationale": "Expands authority", "evidence": "VP mandate"},
+    "product_quality": {"points": 4, "rationale": "Clinically meaningful", "evidence": "Virtual-care platform"},
+    "commercial_upside": {"points": 4, "rationale": "Platform market", "evidence": "To confirm"},
+    "practical_fit": {"points": 4, "rationale": "Seattle hybrid", "evidence": "Location fit"}
+  }
+}

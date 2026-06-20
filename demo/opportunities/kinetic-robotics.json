@@ -1,0 +1,26 @@
+{
+  "opportunity": {
+    "company": "Kinetic Robotics",
+    "role": "Senior Director of Product, Robotics Platform",
+    "url": "demo/jobs/kinetic-robotics.md",
+    "source": "Fictional public demo",
+    "location": "Pittsburgh or San Francisco",
+    "work_model": "Hybrid"
+  },
+  "archetype": "Technical Platform Product Leader",
+  "posting_status": "Fictional demo",
+  "next_action": "Explore only if platform leadership outweighs the lack of direct robotics evidence",
+  "recommendation": "Selective exploration",
+  "scores": {
+    "mandate_authority": {"points": 18, "rationale": "Owns platform vision, portfolio, investments, and ecosystem.", "evidence": "Fictional posting"},
+    "target_alignment": {"points": 14, "rationale": "Direct Senior Director target level.", "evidence": "Demo career thesis"},
+    "domain_fit": {"points": 9, "rationale": "Strong AI and developer-platform fit but no direct robotics background.", "evidence": "Atlas Cloud"},
+    "leadership_scope": {"points": 14, "rationale": "Leads product leaders and a broad technical organization.", "evidence": "Atlas Cloud"},
+    "evidence_match": {"points": 7, "rationale": "Platform and ecosystem stories transfer, but autonomy and hardware evidence are absent.", "evidence": "Demo evidence bank"},
+    "career_growth": {"points": 8, "rationale": "Would add hardware-software and autonomy exposure.", "evidence": "Role mandate"},
+    "product_quality": {"points": 4, "rationale": "Interesting technical platform and customer problem.", "evidence": "Fictional posting"},
+    "commercial_upside": {"points": 4, "rationale": "Enterprise deployment and ecosystem scope.", "evidence": "Fictional posting"},
+    "practical_fit": {"points": 3, "rationale": "San Francisco works, but hybrid and travel requirements need confirmation.", "evidence": "Demo profile"}
+  }
+}
+

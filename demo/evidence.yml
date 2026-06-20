@@ -1,0 +1,55 @@
+- context: Atlas Cloud AI platform consolidation
+  role: Director of Product Management, AI Platform
+  problem: Enterprise customers faced four fragmented AI tools with inconsistent workflows and governance.
+  actions: Set the platform strategy, aligned a 120-person organization, and consolidated orchestration, evaluation, governance, and observability into one experience.
+  result: Created a coherent enterprise AI platform with faster implementation and stronger adoption.
+  metrics: 400+ customers; 68% increase in weekly active developers; implementation time reduced from 14 weeks to 6
+  stakeholders: Product, engineering, design, security, legal, sales, customer success, enterprise customers
+  competencies: Platform strategy; AI product management; organizational leadership; adoption
+  confidentiality: Public
+  source: Fictional demo resume
+
+- context: Atlas Cloud product organization
+  role: Director of Product Management, AI Platform
+  problem: Build product leadership capacity for a rapidly expanding AI portfolio.
+  actions: Built and developed a team of six product managers and established portfolio, roadmap, and AI-readiness reviews.
+  result: Improved decision quality and created repeatable product operating mechanisms.
+  metrics: 6 product managers; 120-person product and engineering organization
+  stakeholders: Executives, product managers, engineering leaders, design, go-to-market
+  competencies: Team leadership; product operations; executive influence
+  confidentiality: Public
+  source: Fictional demo resume
+
+- context: Hearthline Health virtual-care platform
+  role: Head of Product
+  problem: Build a scalable digital-health experience across employer and health-plan channels.
+  actions: Built product, design, analytics, and research functions and led the platform from discovery through enterprise launch and adoption.
+  result: Scaled membership and improved early engagement.
+  metrics: Membership grew from 8,000 to 95,000; 90-day activation improved from 54% to 73%; 5 national health plans
+  stakeholders: Members, clinicians, health plans, employers, product, engineering, design, analytics, commercial teams
+  competencies: Zero-to-one; digital health; enterprise product; adoption; product organization
+  confidentiality: Public
+  source: Fictional demo resume
+
+- context: Meridian Marketplace growth
+  role: Group Product Manager
+  problem: Buyers and sellers experienced friction before completing their first transaction.
+  actions: Redesigned onboarding, trust, payments, and matching experiences using funnel analysis and customer research.
+  result: Increased marketplace liquidity and accelerated time to value.
+  metrics: 31% increase in completed transactions; 40% reduction in time to first value
+  stakeholders: Buyers, sellers, payments, trust, engineering, design, operations
+  competencies: Marketplace product; growth; analytics; customer discovery
+  confidentiality: Public
+  source: Fictional demo resume
+
+- context: Northwind workflow product line
+  role: Product Manager and Senior Product Manager
+  problem: Mid-market operations teams relied on disconnected workflows and reporting.
+  actions: Launched workflow, analytics, API, and integration capabilities with 20 technology partners.
+  result: Built a growing product line and partner ecosystem.
+  metrics: ARR grew from $4M to $18M; 20 technology partners
+  stakeholders: Customers, engineering, sales, partners, customer success
+  competencies: B2B SaaS; integrations; commercialization; ecosystem strategy
+  confidentiality: Public
+  source: Fictional demo resume
+

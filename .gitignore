@@ -1,0 +1,22 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.pco.lock
+backups/
+output/
+outputs/
+tmp/
+public-export/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Generated workbook lock/temp files
+~$product-career-ops.xlsx
+*.xlsx.tmp
+*.tmp.xlsx
