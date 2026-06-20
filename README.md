@@ -112,6 +112,18 @@ Now you commit engine changes in the outer repo and your career data in `private
 
 Before publishing any customized version of the **engine**, always run `pco export-public` (see Privacy below) so no real identifiers leak into the public repo.
 
+## Resource library
+
+A curated product-management resource library lives in [`docs/resources/`](docs/resources/README.md)
+to support the development loop:
+
+- [Books](docs/resources/books.md)
+- [Newsletters & Podcasts](docs/resources/newsletters-and-podcasts.md)
+- [Frameworks & Mental Models](docs/resources/frameworks.md)
+- [Courses & Communities](docs/resources/courses-and-communities.md)
+- [AI Product Management](docs/resources/ai-product-management.md)
+- [Regulated, MedTech & Digital Health](docs/resources/regulated-and-digital-health.md)
+
 ## Architecture
 
 - `AGENTS.md` - canonical operating contract
@@ -119,6 +131,7 @@ Before publishing any customized version of the **engine**, always run `pco expo
 - `.claude/skills/pco/SKILL.md` - Claude Code entry point
 - `workflows/search/` - job-search workflows
 - `workflows/develop/` - coaching and development workflows
+- `docs/resources/` - curated product-management resource library
 - `pco/` - validated workbook, scoring, packet, privacy, and export infrastructure
 - `demo/` - fictional public example data
 
