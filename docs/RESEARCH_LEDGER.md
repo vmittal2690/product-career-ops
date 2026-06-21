@@ -2,6 +2,8 @@
 
 This ledger records public sources that inform Product Career Ops. It supports internal reasoning and is not copied into application documents.
 
+> This is a provenance record, not a reading list. For user-facing reading recommendations, see [`docs/resources/`](resources/README.md).
+
 | Source | Public URL | Accessed | Derived principle |
 |---|---|---|---|
 | Shreyas Doshi, AI-in-the-loop coaching post | User-provided public post dated 2026-04-30 | 2026-06-19 | Treat AI output as an object of critical review; combine refined prompting with contextual human judgment. |

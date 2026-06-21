@@ -7,6 +7,9 @@ number of foundational books deeply, and apply one framework at a time.
 > Curated June 2026. Links point to canonical sources; specifics (editions, pricing,
 > event dates) change — verify before acting.
 
+> This is a curated reading list for your development. For the internal provenance record of
+> sources that shaped the engine's reasoning, see [`docs/RESEARCH_LEDGER.md`](../RESEARCH_LEDGER.md).
+
 ## Contents
 
 - [Books](books.md) — foundational and role-specific reading
