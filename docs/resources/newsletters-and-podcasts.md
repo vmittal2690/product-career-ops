@@ -22,6 +22,20 @@ not access.
 - **This is Product Management** — applied interviews across domains.
 - **a16z Podcast** — technology, markets, and (frequently) healthcare/bio and AI.
 
+## Build-with datasets
+
+For grounding your own analysis (or building AI tools) in primary product content
+rather than skimming summaries:
+
+- **[Lenny's Data — public starter pack](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata)**
+  — official archive of Lenny's Podcast transcripts and Newsletter posts as
+  AI-friendly markdown, with an `index.json` (titles, dates, word counts, guests,
+  descriptions). The free repo includes **10 newsletter posts + 50 podcast
+  transcripts**; a paid tier ([lennysdata.com](https://www.lennysdata.com)) unlocks
+  the full archive (~360 posts / ~304 transcripts), MCP access, and a private repo.
+  Clone it and point `develop coach` or `develop skill-gap` at a relevant transcript
+  when you want depth on a specific decision.
+
 ## Practice
 
 Read/listen with a pen. For each piece, write one line: *what would I do differently?*
