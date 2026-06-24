@@ -18,6 +18,7 @@ number of foundational books deeply, and apply one framework at a time.
 - [Courses & Communities](courses-and-communities.md) — structured learning and peer networks
 - [AI Product Management](ai-product-management.md) — building AI/ML-powered products
 - [Regulated, MedTech & Digital Health](regulated-and-digital-health.md) — SaMD, FDA, GMLP, industry
+- [LennyHub RAG](lennyhub-rag.md) — external transcript/RAG reference dataset
 
 ## How to use this with the engine
 

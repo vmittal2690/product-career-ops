@@ -123,6 +123,7 @@ to support the development loop:
 - [Courses & Communities](docs/resources/courses-and-communities.md)
 - [AI Product Management](docs/resources/ai-product-management.md)
 - [Regulated, MedTech & Digital Health](docs/resources/regulated-and-digital-health.md)
+- [LennyHub RAG](docs/resources/lennyhub-rag.md)
 
 ## Architecture
 

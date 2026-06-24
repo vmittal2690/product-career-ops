@@ -35,6 +35,12 @@ rather than skimming summaries:
   the full archive (~360 posts / ~304 transcripts), MCP access, and a private repo.
   Clone it and point `develop coach` or `develop skill-gap` at a relevant transcript
   when you want depth on a specific decision.
+- **[LennyHub RAG](lennyhub-rag.md)**
+  — community RAG reference with a fork in this GitHub account
+  ([vmittal2690/lennyhub-rag](https://github.com/vmittal2690/lennyhub-rag)).
+  It exposes **297 podcast transcript files** under `data/` plus Qdrant, LightRAG,
+  Streamlit, and graph-viewer tooling. Keep it external to this public engine repo and
+  reference transcript-derived principles through the source repo.
 
 ## Practice
 
